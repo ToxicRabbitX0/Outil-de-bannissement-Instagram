@@ -1,6 +1,3 @@
-# Outil-de-bannissement-Instagram
-Un outil puissant pour signaler et bannir des comptes Instagram.
-
 <!--  
 #️⃣ Tags (FR/DE/CH optimisés) :  
 outil de signalement de masse, bot tiktok signalement, outil suppression instagram, signalement compte youtube, suppression numérique, bot anti-spam, système de strike réseaux sociaux, outil suppression de contenu, signalement massif furtif, outil automatisé de report, bot spam tiktok, signaler compte spam, outils darknet, redrepo, outil sniper tiktok  
@@ -12,6 +9,9 @@ outil de suppression réseaux sociaux, suppression compte tiktok, bot telegram s
 
 Social Media Löschwerkzeug, TikTok Account Entfernung, Telegram Report Bot, Instagram Konto löschen Bot, Fake Account Entferner YouTube, TikTok Bot Angriff, Moderations-Bypass Tool, Fake Report System, TikTok Durchsetzung Software, Skript zur Accountlöschung
 -->
+
+  <img src="https://github.com/user-attachments/assets/0be91494-5d61-4172-8e93-82d791a4b805" alt="Group 1" width="500"/>
+
 
 # 🚫 Instagram Ban Tool – Outil de Bannissement Instagram – Instagram Sperr-Bot
 
@@ -68,13 +68,14 @@ https://www.instagram.com/ella.the.quin/
 
 ![Screenshot 2025-07-07 031111](https://github.com/user-attachments/assets/bc158df7-d372-4a78-acc8-82161d28ae8c)
 
-<!-- 
-### 🤖 Screenshot 2 – Telegram Bot Interface
-![Telegram Bot](assets/screenshot2.png)
--->
+![Web 1920 – 5](https://github.com/user-attachments/assets/e96a592c-b032-4dde-b3bc-172af1625a76)
+
+
 ---
 
-## 💡 Features / Funktionen / Fonctionnalités
+## 💡 Features / Funktionen / Fonc
+
+tionnalités
 
 - 🔥 Jusqu'à / Bis zu 350,000 signalements automatisés
 - 🔒 Accès privé / Privater Zugang

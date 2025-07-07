@@ -62,10 +62,11 @@ Infrastructure d'hébergement en Suisse. Aucun enregistrement de données utilis
 ## 📸 Screenshots
 
 ### 🔒 Screenshot 1 – Instagram Banned Page
-![Instagram Banned Page](Screenshot_2025-07-07_031003.png)
+![Screenshot 2025-07-07 031003](https://github.com/user-attachments/assets/25b0bb5f-e875-48f6-8a51-6a19ba812699)
+
 https://www.instagram.com/ella.the.quin/
 
-![Instagram Banned Page](Screenshot_2025-07-07_031111.png)
+![Screenshot 2025-07-07 031111](https://github.com/user-attachments/assets/bc158df7-d372-4a78-acc8-82161d28ae8c)
 
 <!-- 
 ### 🤖 Screenshot 2 – Telegram Bot Interface
